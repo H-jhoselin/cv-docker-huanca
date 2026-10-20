@@ -1,4 +1,4 @@
-# CV Personal – Jhoselin Huanca Torres
+# CV Personal – Jhoselin Huanca Torrez
 
 Aplicación web de CV personal con **React + Nginx**, **Node.js** y **MySQL**, orquestada con **Docker Compose**.
 

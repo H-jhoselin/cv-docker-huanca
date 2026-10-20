@@ -24,7 +24,7 @@ CREATE TABLE IF NOT EXISTS formacion (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 INSERT INTO persona (id, nombre, apellido, ciudad, foto) VALUES
-    (1, 'Jhoselin', 'Huanca Torres', 'La Paz', '/foto.jpg');
+    (1, 'Jhoselin', 'Huanca Torrez', 'La Paz', '/foto.jpg');
 
 INSERT INTO formacion (titulo, institucion, anio, persona_id) VALUES
     ('Título en Provisión Nacional', 'Ingeniería de Sistemas', '2019', 1),

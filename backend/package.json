@@ -1,7 +1,7 @@
 {
   "name": "huanca-backend",
   "version": "1.0.0",
-  "description": "API del CV personal - Jhoselin Huanca Torres",
+  "description": "API del CV personal - Jhoselin Huanca Torrez",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"

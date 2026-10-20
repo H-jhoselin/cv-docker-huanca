@@ -5,3 +5,6 @@ npm-debug.log
 # Archivos que no forman parte del proyecto
 /foto.jpg
 /Práctica Final 2026.pdf
+
+# Documento de entrega (no forma parte del proyecto)
+/entrega/
