@@ -1,0 +1,7 @@
+node_modules/
+dist/
+npm-debug.log
+
+# Archivos que no forman parte del proyecto
+/foto.jpg
+/Práctica Final 2026.pdf
